@@ -1,8 +1,7 @@
 package Laboratory1.OpenClosedPrinciple;
 
 public class Main {
- 
-    // Main driver method 
+
     public static void main(String args[])
     {
         Cuboid_2 cb1 = new Cuboid_2();
